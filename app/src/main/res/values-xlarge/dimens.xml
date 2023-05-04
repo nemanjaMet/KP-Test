@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- sp unit x 2 -->
+    <dimen name="text_size_16sp">32sp</dimen>
+    <dimen name="text_size_12sp">24sp</dimen>
+
+    <!-- dp unit x 2 -->
+    <dimen name="dimen_size_30dp">60dp</dimen>
+    <dimen name="dimen_size_25dp">50dp</dimen>
+    <dimen name="dimen_size_15dp">30dp</dimen>
+    <dimen name="dimen_size_10dp">20dp</dimen>
+    <dimen name="dimen_size_5dp">10dp</dimen>
+    <dimen name="dimen_size_3dp">6dp</dimen>
+    <dimen name="dimen_size_2dp">4dp</dimen>
+    <dimen name="dimen_size_1dp">2dp</dimen>
+
+</resources>

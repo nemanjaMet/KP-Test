@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kupujem Prodajem Zadatak</string>
+
+    <string name="kategorija">Kategorija</string>
+    <string name="kp_copyright">KupujemProdajem © 2022 All rights reserved</string>
+    <string name="oglas_obrisan">Oglas je obrisan</string>
+
+</resources>
