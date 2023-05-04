@@ -129,6 +129,7 @@ class PreviewAdAdapter(private val context: Context, private val dataViewModel: 
                 holder.ivAdPreviewImage.setViewGone()
                 holder.adFavorite.isEnabled = false
                 holder.adFavorite.alpha = 0.1f
+                holder.adPreview.setImageResource(0)
             }
 
             listener?.onPreviewAd(position)
